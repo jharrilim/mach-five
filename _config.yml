@@ -1,0 +1,9 @@
+exclude:
+  - screenshot.png
+  - scss
+  - gulpfile.js
+  - .travis.yml
+  - package.json
+  - package-lock.json
+  - README.md
+  - .gitignore
